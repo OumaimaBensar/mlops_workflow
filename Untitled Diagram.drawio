@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2573" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2791" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,6 +378,16 @@
         <mxCell id="PaNRRyaqHtblGBhJsRmo-216" value="&lt;span style=&quot;text-align: left;&quot;&gt;online DB&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#808080;" vertex="1" parent="PaNRRyaqHtblGBhJsRmo-212">
           <mxGeometry x="33" y="100" width="60" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="PaNRRyaqHtblGBhJsRmo-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PaNRRyaqHtblGBhJsRmo-212">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="65.00090909090864" as="sourcePoint" />
+            <mxPoint x="285" y="350.40999999999985" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="65" />
+              <mxPoint x="140" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PaNRRyaqHtblGBhJsRmo-217" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="350" y="1830" width="815" height="137" as="geometry" />
         </mxCell>
@@ -665,16 +675,6 @@
         </mxCell>
         <mxCell id="PaNRRyaqHtblGBhJsRmo-326" value="&lt;b&gt;Automated ML Workflow Pipeline&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PaNRRyaqHtblGBhJsRmo-314">
           <mxGeometry x="55" y="1" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PaNRRyaqHtblGBhJsRmo-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="167" y="1943.0909090909086" as="sourcePoint" />
-            <mxPoint x="357" y="2228.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="212" y="1943" />
-              <mxPoint x="212" y="2229" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
